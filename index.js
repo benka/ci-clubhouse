@@ -1,4 +1,3 @@
-"use strict";
 import Clubhouse from 'clubhouse-lib';
 
 const WORKFLOW_COMPLETED = 500000002;
