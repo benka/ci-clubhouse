@@ -5,16 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "clear; babel-node index.js --presets es2015,stage-2"
+    "start": "clear; node index.js"
   },
   "author": "benka",
   "license": "ISC",
   "dependencies": {
     "clubhouse-lib": "^0.3.0"
-  },
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1"
   }
 }
