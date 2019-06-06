@@ -3,10 +3,6 @@
   "version": "0.0.1",
   "description": "GoCD - Clubhouse integration",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "clear; node index.js"
-  },
   "author": "benka",
   "license": "ISC",
   "dependencies": {
